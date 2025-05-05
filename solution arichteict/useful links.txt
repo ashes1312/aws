@@ -1,0 +1,5 @@
+Useful links.
+
+https://docs.aws.amazon.com/wellarchitected/latest/framework/welcome.html
+
+https://aws.amazon.com/architecture/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all
